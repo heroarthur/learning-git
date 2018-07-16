@@ -1,0 +1,16 @@
+gra strategiczna do walki
+	-budynki:
+		wojskowe 
+		gospodarcze
+		mieszkalne
+	-wojsko
+		-bohaterowie
+			-skille
+		-jednostka
+			-jednostka 1,2,3 poziomu
+			
+
+	-muzyka
+	-obrazy budowli
+	-obrazy terenu
+
