@@ -6,6 +6,9 @@ class heroes:
 
 
 
+class Paladin(heroes):
+	def __init__(self):
+        self.data = []
 
 
 

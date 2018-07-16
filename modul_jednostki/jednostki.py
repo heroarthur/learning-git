@@ -20,3 +20,5 @@ class Jednostka3Poziomu(jednostka):
     def __init__(self):
         self.data = []
 
+
+
